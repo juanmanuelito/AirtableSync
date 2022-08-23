@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to AritableSync
 
-You can use the [editor on GitHub](https://github.com/juanmanuelito/AirtableSync/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Airtable is a component that help you to sync you airtable data also provides a function to get linked data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Privacy Policy
 
-### Markdown
+AirtableSync is an addon and just acces to you google-sheet data to provaide the sync service.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Which Data is collected
+Our solution doesn't collect any personal data we just collect data to provide you this service. we may collect:
 
-```markdown
-Syntax highlighted code block
+- Google Sheet data in order to modify and work with the data that you get from Airtable
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Data deletion
+You can at any time delete the data by deleting the configured endpoint in the complement.
 
-1. Numbered
-2. List
+### Terms And Conditions
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juanmanuelito/AirtableSync/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- By accesing to https://juanmanuelito.github.io/AirtableSync/ or using our service you are agree this terms of service.
+- **Third-party services terms:** This service allow you to connect with other third service so if you agree to use our service you are agreeing to the third-party terms.
+- **Damages:** As a service we just provide the functionality to connect and get data from third services we do no take any responsability if the use of this service leads to any kind of damage, we recomend to use this service with caution.
+- We can modify this terms without notice, by using the service you are agreeing to this terms all the revisions and modification that this terms can have. 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with AirTableSync contact me juamanuelito74@gmail.com
